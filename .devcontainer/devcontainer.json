@@ -45,5 +45,8 @@
       "!include_dir_merge_list scalar",
       "!include_dir_merge_named scalar"
     ]
-  }
+  },
+  "mounts": [
+  "source=/c/Users/pathak.m/OneDrive Northeastern University/Documents/Github/frontend,target=/workspaces/frontend,type=bind,consistency=cached"
+]
 }
